@@ -1,7 +1,7 @@
 # Hi, I'm Varun 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00ffff&center=true&vCenter=true&lines=Hello+👋;I'm+Varun;Aspiring+Software+Developer;Web+Developer;MERN+Stack;Tech+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Aspiring+software+developer;Web+Developer;MERN+Stack;Tech+Enthusiast" />
 </p>
 
 ---
