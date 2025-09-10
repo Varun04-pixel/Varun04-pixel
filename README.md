@@ -1,6 +1,6 @@
 # Hi, I'm Varun 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=010409&center=true&vCenter=true&lines=Hello+👋;I'm+Varun;Aspiring+Software+Developer;Web+Developer;MERN+Stack;Tech+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=A9FEF7&center=true&vCenter=true&lines=Hello+👋;I'm+Varun;Aspiring+Software+Developer;Web+Developer;MERN+Stack;Tech+Enthusiast)](https://git.io/typing-svg)
 
 ---
 
