@@ -1,5 +1,5 @@
-<p align="center" style="font-size: 50px; font-weight: bold;">
-  #Hi, I'm Varun 👋
+<p align="center" style="font-size: 3rem; font-weight: bold;">
+  Hi, I'm Varun 👋
 </p>
 
 <p align="center">
