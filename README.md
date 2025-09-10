@@ -1,4 +1,8 @@
-<h1 align="center" style="margin-bottom: 50px;">Hi, I'm Varun 👋</h1>
+<h1 align="center" style="margin-bottom: 30px;">Hi, I'm Varun 👋</h1>
+
+<p align="center" style="margin-top: 20px;">
+  <hr width="50%">
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=700&height=100&lines=Aspiring+software+developer;Web+Developer;MERN+Stack;Tech+Enthusiast" />
