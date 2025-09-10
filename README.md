@@ -1,6 +1,6 @@
 # Hi, I'm Varun 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=F70000&center=true&vCenter=true&lines=Hello+👋;I'm+Varun;Aspiring+Software+Developer;Web+Developer;MERN+Stack;Tech+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=010409&center=true&vCenter=true&lines=Hello+👋;I'm+Varun;Aspiring+Software+Developer;Web+Developer;MERN+Stack;Tech+Enthusiast)](https://git.io/typing-svg)
 
 ---
 
@@ -42,7 +42,7 @@
 
 ---
 
-## 🏃 About Me
+##  About Me
 - 💻 Aspiring **Software Developer**
 - 🌱 Currently learning **Java, Python**
 - 🔥 Exploring **Web Development (React, Node.js, Express, MongoDB)**
