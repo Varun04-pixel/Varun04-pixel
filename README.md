@@ -8,14 +8,14 @@
 
 ## 🚀 Skills & Tools
 <p align="center">
-  <img src="assets/JavaScript.gif" width="60" />
-  <img src="assets/React Logo.gif" width="60" />
-  <img src="assets/Nodejs.gif" width="60" />
-  <img src="assets/Java logo.gif" width="60" />
+  <img src="assets/JavaScript.gif" width="70" />
+  <img src="assets/React Logo.gif" width="70" />
+  <img src="assets/Nodejs.gif" width="70" />
+  <img src="assets/Java logo.gif" width="70" />
   <img src="assets/mongo.gif" width="70" />
   <img src="assets/Html.gif" width="70" />
   <img src="assets/css3.gif" width="70" />
-  <img src="assets/github.gif" width="60" />
+  <img src="assets/github.gif" width="65" />
 </p>
 
 ---
