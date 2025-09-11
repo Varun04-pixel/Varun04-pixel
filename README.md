@@ -11,7 +11,7 @@
   <img src="assets/JavaScript.gif" width="70" />
   <img src="assets/React Logo.gif" width="70" />
   <img src="assets/Nodejs.gif" width="80" />
-  <img src="assets/Express.svg" width="70" />
+  <img src="assets/Express.svg" width="70" fill="white" />
   <img src="assets/Java logo.gif" width="75" />
   <img src="assets/mongo.gif" width="70" />
   <img src="assets/Html.gif" width="70" />
