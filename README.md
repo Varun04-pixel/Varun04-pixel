@@ -8,24 +8,14 @@
 
 ## 🚀 Skills & Tools
 <p align="center">
-  <!-- JavaScript -->
-  <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript&logoColor=white&labelColor=20232A" />
-  <!-- React -->
-  <img src="https://img.shields.io/badge/React-17.0.2-blue?style=for-the-badge&logo=react&logoColor=white" />
-  <!-- Node.js -->
-  <img src="https://img.shields.io/badge/Node.js-16.0.0-green?style=for-the-badge&logo=node.js&logoColor=white" />
-  <!-- Express -->
-  <img src="https://img.shields.io/badge/Express.js-4.17.1-black?style=for-the-badge&logo=express&logoColor=white" />
-  <!-- MongoDB -->
-  <img src="https://img.shields.io/badge/MongoDB-5.0.0-brightgreen?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <!-- Java -->
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <!-- HTML -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <!-- CSS -->
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <!-- Bootstrap -->
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="assets/JavaScript.gif" width="60" />
+  <img src="assets/React Logo.gif" width="60" />
+  <img src="assets/Nodejs.gif" width="60" />
+  <img src="assets/mongo.gif" width="60" />
+  <img src="assets/java logo.gif" width="60" />
+  <img src="assets/Html.gif" width="60" />
+  <img src="assets/css3.gif" width="60" />
+  <img src="assets/github.gif" width="60" />
 </p>
 
 ---
