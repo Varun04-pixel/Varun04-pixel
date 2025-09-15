@@ -26,7 +26,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Varun04-pixel&layout=compact&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Varun04-pixel&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=Varun04-pixel&theme=radical)
 
 ---
 
