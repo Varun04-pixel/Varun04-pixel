@@ -1,4 +1,4 @@
-<div align="center" style="font-size: 2.5rem; font-weight: bold;">
+<div align="center" style="font-size: 6.5rem; font-weight: bold;">
   Hi, I'm Varun 👋
 </div>
 
