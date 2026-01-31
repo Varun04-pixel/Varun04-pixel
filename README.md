@@ -22,7 +22,7 @@
 
 
 ## 📊 GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats-salesp07.vercel.app?user=varun_async&theme=transparent)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-salesp07.vercel.app?user=Varun04-pixel&theme=transparent)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Varun04-pixel&layout=compact&theme=radical)
 
