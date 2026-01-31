@@ -24,8 +24,7 @@
 ## 📊 GitHub Stats
 [![GitHub Streak](https://github-readme-streak-stats-salesp07.vercel.app?user=Varun04-pixel&theme=react)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Varun04-pixel&layout=compact&theme=radical)![GitHub Stats](https://github-readme-stats-varun04-pixel9222-0vesmshf.leapcell.dev/api?username=Varun04-pixel&theme=react)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Varun04-pixel&theme=radical)
+![Top Languages](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=MadhavMadan336&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats)
 
 
 
