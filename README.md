@@ -22,7 +22,7 @@
 
 
 ## 📊 GitHub Stats
-![Varun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Varun04-pixel&show_icons=true&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats-salesp07.vercel.app?user=varun_async&theme=transparent)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Varun04-pixel&layout=compact&theme=radical)
 
