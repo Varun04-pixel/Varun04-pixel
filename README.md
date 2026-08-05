@@ -6,7 +6,7 @@
 
 
 
-## 🚀 Skills & Tools
+##  Skills & Tools
 <p align="center">
   <img src="assets/JavaScript.gif" width="70" />
   <img src="assets/React Logo.gif" width="70" />
@@ -21,22 +21,22 @@
 
 
 
-## 📊 GitHub Stats
+##  GitHub Stats
 [![GitHub Streak](https://github-readme-streak-stats-salesp07.vercel.app?user=Varun04-pixel&theme=react)](https://git.io/streak-stats)
 
 ![Top Languages](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Varun04-pixel&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats)
 
 
 
-## 📈 Contribution Graph
+##  Contribution Graph
 ![Varun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Varun04-pixel&theme=react-dark&hide_border=true)
 
 
 
 ##  About Me
-- 💻 Aspiring **Software Developer**
-- 🌱 Currently learning **Java, Python**
-- 🔥 Exploring **Web Development (React, Node.js, Express, MongoDB)**
+-  Aspiring **Software Developer**
+-  Currently learning **Java, Python**
+-  Exploring **Web Development (React, Node.js, Express, MongoDB)**
 
 
 
