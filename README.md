@@ -28,7 +28,7 @@
 
 
 
-##  Contribution
+##  Contributions
 <img src="assets/contributions.png" />
 
 
