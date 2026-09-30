@@ -10,9 +10,6 @@
 <p align="center">
   <img src="assets/JavaScript.gif" width="70" />
   <img src="assets/React Logo.gif" width="70" />
-  <span style="background-color: #000000;">
-    <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="40" height="40" alt="Python" />
-  </span>
   <img src="assets/Nodejs.gif" width="90" />
   <img src="assets/express-org.png" width="45"/>
   <img src="assets/Java logo.gif" width="75" />
