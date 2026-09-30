@@ -28,8 +28,8 @@
 
 
 
-##  Contribution Graph
-![Varun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Varun04-pixel&theme=react-dark&hide_border=true)
+##  Contribution
+<img src="assets/contributions.png" />
 
 
 
