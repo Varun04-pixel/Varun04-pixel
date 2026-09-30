@@ -10,7 +10,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      # Upgraded from v3 to v4 to fix Node.js warnings
+      - uses: actions/checkout@v4
 
       - uses: Platane/snk@v3
         id: snake-gif
@@ -20,7 +21,8 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+      # Upgraded from v3 to v5 to support Node 24 and newer runners
+      - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
