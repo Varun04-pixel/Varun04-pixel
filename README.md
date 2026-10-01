@@ -17,6 +17,7 @@
   <img src="assets/Html.gif" width="70" />
   <img src="assets/css3.gif" width="70" />
   <img src="assets/github.gif" width="65" />
+  <img src="assets/hui.gif" width="65" />
 </p>
 
 
