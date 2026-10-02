@@ -20,8 +20,8 @@
   <img src="assets/exp@2x.png" width="120"/>
   <img src="assets/c_lang@2x.png" width="50" />
   <img src="assets/visual_studio@2x.png" width="90" />
-  <img src="assets/python@2x.png" width="85" />
-  <img src="assets/github_1@2x.png" width="65" />
+  <img src="assets/python@2x.png" width="80" />
+  <img src="assets/github_1@2x.png" width="60" />
 </p>
 
 
