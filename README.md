@@ -11,7 +11,7 @@
   <img src="assets/JavaScript.gif" width="70" />
   <img src="assets/React Logo.gif" width="70" />
   <img src="assets/Nodejs.gif" width="90" />
-  <img src="assets/express-org.png" width="40"/>
+  <img src="assets/express-org.png" width="45"/>
   <img src="assets/Java logo.gif" width="75" />
   <img src="assets/mongo.gif" width="70" />
   <img src="assets/Html.gif" width="70" />
@@ -20,7 +20,7 @@
   <img src="assets/c_lang1@2x.png" width="90" />
   <img src="assets/visual_studio@2x.png" width="90" />
   <img src="assets/python@2x.png" width="90" />
-  <img src="assets/github_1@2x.png" width="45" />
+  <img src="assets/github_1@2x.png" width="90" />
 </p>
 
 
