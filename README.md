@@ -16,11 +16,11 @@
   <img src="assets/Html.gif" width="70" />
   <img src="assets/css3.gif" width="70" />
   <img src="assets/mysql@2x.png" width="90" />
-  <img src="assets/exp@2x.png" width="75"/>
+  <img src="assets/exp@2x.png" width="90"/>
   <img src="assets/c_lang1@2x.png" width="90" />
   <img src="assets/visual_studio@2x.png" width="90" />
   <img src="assets/python@2x.png" width="90" />
-  <img src="assets/github_1@2x.png" width="45" />
+  <img src="assets/github_1@2x.png" width="70" />
 </p>
 
 
