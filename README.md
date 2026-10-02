@@ -15,6 +15,7 @@
   <img src="assets/mongo.gif" width="70" />
   <img src="assets/Html.gif" width="70" />
   <img src="assets/css3.gif" width="70" />
+  <img src="assets/github.gif" width="70" />
   <img src="assets/mysql@2x.png" width="80" />
   <img src="assets/exp@2x.png" width="120"/>
   <img src="assets/c_lang1@2x.png" width="90" />
