@@ -20,7 +20,7 @@
   <img src="assets/c_lang1@2x.png" width="90" />
   <img src="assets/visual_studio@2x.png" width="90" />
   <img src="assets/python@2x.png" width="90" />
-  <img src="assets/github_1@2x.png" width="90" />
+  <img src="assets/github_1@2x.png" width="145" />
 </p>
 
 
