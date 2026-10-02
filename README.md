@@ -50,8 +50,8 @@
 
 ##  About Me
 -  Aspiring **Software Developer**
--  Currently learning **Java, Python**
--  Exploring **Web Development (React, Node.js, Express, MongoDB)**
+-  Currently learning **CyberSecurity, Java, Python**
+-  Exploring **Web Technologies**
 
 
 
