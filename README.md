@@ -51,7 +51,7 @@
 
 ##  About Me
 -  Aspiring **Software Developer**
--  Currently learning **CyberSecurity, Java, Python**
+-  Currently learning **CyberSecurity, mySql, Java, Python**
 -  Exploring **Web Technologies**
 
 
