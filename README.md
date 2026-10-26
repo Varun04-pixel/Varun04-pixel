@@ -16,7 +16,7 @@
   <img src="assets/Html.gif" width="70" />
   <img src="assets/css3.gif" width="70" />
   <img src="assets/github.gif" width="70" />
-  <img src="assets/mysql@2x.png" width="80" />
+  <!-- <img src="assets/mysql@2x.png" width="80" /> -->
   <img src="assets/exp@2x.png" width="120"/>
   <img src="assets/c_lang@2x.png" width="50" />
   <img src="assets/visual_studio@2x.png" width="90" />
